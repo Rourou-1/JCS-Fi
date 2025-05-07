@@ -7,7 +7,9 @@
     color: white;
     padding: 60px 20px;
 }
-
+.product-price {
+    color:black !important;
+}
 .featured-products h2,
 .featured-products .subtitle {
     color: white;
